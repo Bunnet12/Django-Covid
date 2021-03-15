@@ -33,8 +33,8 @@ body a:hover{
 	text-decoration:none;
 }
 .header-bg{
-	/* background:url(../images/sea_img.png) no-repeat; */
-	background-color: #55E6C1;
+	background:url(https://videohive.img.customer.envatousercontent.com/files/abd7ee73-3f3b-4f03-8a1b-1409529976d5/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=6337bf289c33f7b8ce608a00fb86b15d) no-repeat;
+	background-size: 1920px, 900px;
 }
 .navbar-nav {
     float: none !important;
@@ -260,14 +260,14 @@ span.italic:hover {
 	margin: 0% 0 2% 2.6%;
 }
 .span_1_of_2{
-	width: 68.1%;
+	width: 40%;
 }
 .images_3_of_2 {
 	width: 45.2%;
 	float: left;
 }
 .span_3_of_2{
-	width: 52.2%;
+	width: 40%;
 }
 .rightsidebar.span_3_of_1 {
     padding-left: 4em;
@@ -370,7 +370,7 @@ span.italic:hover {
 		width: 100%;
 	}
 	.span_3_of_1 {
-		width:94%;
+		width:100%;
 	}
 }
 /*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
